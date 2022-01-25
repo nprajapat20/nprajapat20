@@ -1,4 +1,4 @@
 # Hi I am Narendra
-I like 
-- Aman
-- B
+<code>
+<img src="main.jpeg" width='100'>
+</code>
